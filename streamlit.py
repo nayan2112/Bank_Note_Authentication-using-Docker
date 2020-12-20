@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-@author: Nayan Jain
-"""
-
 import numpy as np
 import pandas as pd
 import pickle
