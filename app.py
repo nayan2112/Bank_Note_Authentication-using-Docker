@@ -3,6 +3,8 @@ import pandas as pd
 import pickle
 import streamlit as st
 
+from PIL import Image
+
 model = pickle.load(open('random_model.pkl', 'rb'))
 
 def welcome():
